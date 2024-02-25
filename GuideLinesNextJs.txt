@@ -1,0 +1,16 @@
+. Exporting Metadata:
+
+export const metadata = { title: 'Next App', description: 'Next.js starter app', } creates a metadata object that stores title and description information.
+This metadata is likely used for SEO purposes or in the <head> section of your app.
+
+. Src/app
+Aside from routes use all in src like components,library
+
+.Notfound and loading directly in app 
+
+
+.use @ rather than using ..
+
+
+
+
